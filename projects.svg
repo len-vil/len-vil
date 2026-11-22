@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360">
+<rect width="1000" height="360" rx="18" fill="#100c0b" stroke="#69301c"/>
+<text x="35" y="48" fill="#ff9b52" font-family="monospace" font-size="14" letter-spacing="4">SELECTED BUILDS / 2026</text>
+<g font-family="Arial, sans-serif">
+ <g><rect x="35" y="75" width="295" height="112" rx="12" fill="#21130f" stroke="#874322"/><text x="55" y="112" fill="#ffb36c" font-size="25" font-weight="bold">VARTHA</text><text x="55" y="143" fill="#e6c9b7" font-size="15">Multilingual news access</text><text x="55" y="166" fill="#9b715e" font-size="11">01 / LANGUAGE + AI</text></g>
+ <g><rect x="352" y="75" width="295" height="112" rx="12" fill="#21130f" stroke="#874322"/><text x="372" y="112" fill="#ffb36c" font-size="25" font-weight="bold">CropGenius</text><text x="372" y="143" fill="#e6c9b7" font-size="15">Agriculture insights</text><text x="372" y="166" fill="#9b715e" font-size="11">02 / DATA + ML</text></g>
+ <g><rect x="669" y="75" width="295" height="112" rx="12" fill="#21130f" stroke="#874322"/><text x="689" y="112" fill="#ffb36c" font-size="25" font-weight="bold">CareConnect</text><text x="689" y="143" fill="#e6c9b7" font-size="15">Healthcare scheduling</text><text x="689" y="166" fill="#9b715e" font-size="11">03 / WEB APP</text></g>
+ <g><rect x="35" y="210" width="454" height="112" rx="12" fill="#21130f" stroke="#874322"/><text x="55" y="247" fill="#ffb36c" font-size="25" font-weight="bold">TrustLens</text><text x="55" y="278" fill="#e6c9b7" font-size="15">Browser security companion</text><text x="55" y="301" fill="#9b715e" font-size="11">04 / BROWSER EXTENSION</text></g>
+ <g><rect x="511" y="210" width="453" height="112" rx="12" fill="#21130f" stroke="#874322"/><text x="531" y="247" fill="#ffb36c" font-size="25" font-weight="bold">CashVision</text><text x="531" y="278" fill="#e6c9b7" font-size="15">Currency recognition concept</text><text x="531" y="301" fill="#9b715e" font-size="11">05 / COMPUTER VISION</text></g>
+</g>
+</svg>

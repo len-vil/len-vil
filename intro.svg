@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230">
+<defs>
+ <linearGradient id="g" x1="0" x2="1"><stop stop-color="#ff6a24"/><stop offset=".55" stop-color="#ffb347"/><stop offset="1" stop-color="#ffe0a3"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1000" height="230" rx="18" fill="#100c0b" stroke="#69301c"/>
+<path d="M0 190H1000" stroke="#3a2119" stroke-width="1"/>
+<text x="48" y="45" fill="#b97953" font-family="monospace" font-size="13" letter-spacing="5">PORTFOLIO / GITHUB PROFILE</text>
+<text x="48" y="128" fill="url(#g)" font-family="Arial,Helvetica,sans-serif" font-size="76" font-weight="800" letter-spacing="-3">LENVIL</text>
+<text x="52" y="165" fill="#f3d7c4" font-family="monospace" font-size="17">Curious mind. Practical builds. Continuous iteration.</text>
+<text x="52" y="205" fill="#9c6b54" font-family="monospace" font-size="12" letter-spacing="3">MCA STUDENT  /  DEVELOPER  /  MAKER</text>
+<circle cx="900" cy="78" r="26" fill="none" stroke="#ff6a24" stroke-width="2" filter="url(#glow)">
+ <animate attributeName="r" values="22;32;22" dur="3s" repeatCount="indefinite"/>
+ <animate attributeName="opacity" values=".35;1;.35" dur="3s" repeatCount="indefinite"/>
+</circle>
+<path d="M850 150l20 -20 20 20 20 -20 20 20" fill="none" stroke="#ff9b52" stroke-width="2" opacity=".8">
+ <animate attributeName="stroke-dasharray" values="0 120;120 0" dur="4s" repeatCount="indefinite"/>
+</path>
+</svg>
