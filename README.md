@@ -74,7 +74,7 @@ Currency recognition project.
 
 ---
 
-<h2 align="center">03 — TECHNOLOGIES & TOOLS</h2>
+<h2 align="center">TECHNOLOGIES & TOOLS</h2>
 
 <div align="center">
 
@@ -84,7 +84,7 @@ Currency recognition project.
 
 ---
 
-<h2 align="center">04 — GITHUB ACTIVITY</h2>
+<h2 align="center">GITHUB ACTIVITY</h2>
 
 <div align="center">
 
@@ -102,7 +102,7 @@ Currency recognition project.
 
 <div align="center">
 
-<h2 align="center">05 — CONNECT</h2>
+<h2 align="center">CONNECT</h2>
 
 <div align="center">
 
