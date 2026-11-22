@@ -9,8 +9,6 @@
 
 <div align="center">
 
-### `01 — ABOUT ME`
-
 **Hey, I'm Lenvil.**
 
 MCA student | Developer | Tech Enthusiast
