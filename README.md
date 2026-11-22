@@ -20,7 +20,7 @@ experimenting with ideas, and continuously learning.
 
 ---
 
-<h2 align="center">02 — MY PROJECTS</h2>
+<h2 align="center">MY PROJECTS</h2>
 
 <div align="center">
 
