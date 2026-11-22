@@ -1,10 +1,11 @@
+
 <div align="center">
 
-<img src="./assets/top-banner.jpg" width="100%" alt="Lenvil's orange glitch-art banner" />
+<img src="./top-banner.jpg" width="100%" alt="Lenvil banner" />
 
 <br/>
 
-<img src="./cards/intro.svg" width="100%" alt="Lenvil — building, breaking, learning" />
+<img src="./intro.svg" width="100%" alt="Lenvil introduction" />
 
 </div>
 
@@ -12,18 +13,18 @@
 
 I'm **Lenvil** — an MCA student and developer interested in building useful digital products, experimenting with interfaces, and learning by making.
 
-I like working across the stack, from app interfaces to backend services and practical AI-powered tools.
+I enjoy working across the stack, from app interfaces to backend services and practical AI-powered tools.
 
 ## `02 / SELECTED WORK`
 
 <div align="center">
-  <img src="./cards/projects.svg" width="100%" alt="Selected projects" />
+  <img src="./projects.svg" width="100%" alt="Selected projects" />
 </div>
 
-| Project | Focus |
-|:--|:--|
+| PROJECT | FOCUS |
+|:---|:---|
 | **VARTHA** | Multilingual news accessibility |
-| **CropGenius** | Crop insights and market information |
+| **CropGenius** | Agriculture insights and market information |
 | **CareConnect** | Healthcare appointments and reminders |
 | **TrustLens** | Browser security companion |
 | **CashVision** | Currency recognition |
@@ -38,9 +39,11 @@ I like working across the stack, from app interfaces to backend services and pra
 
 <div align="center">
 
-[GitHub](https://github.com/len-vil) · [Repositories](https://github.com/len-vil?tab=repositories)
+<a href="https://github.com/len-vil">GITHUB</a>
+&nbsp; / &nbsp;
+<a href="https://github.com/len-vil?tab=repositories">REPOSITORIES</a>
 
-<br/>
+<br/><br/>
 
 <sub>DESIGN / BUILD / ITERATE — ONE COMMIT AT A TIME.</sub>
 
