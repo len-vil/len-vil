@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="142" viewBox="0 0 960 142" role="img" aria-labelledby="title">
+      <title id="title">About Lenvil and technology interests</title><style>
+      .reveal{opacity:0;animation:rise .8s cubic-bezier(.2,.7,.2,1) forwards}
+      .d1{animation-delay:.15s}.d2{animation-delay:.35s}.d3{animation-delay:.55s}
+      .pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2.8s ease-in-out infinite}
+      .shine{animation:shine 5s ease-in-out infinite}
+      @keyframes rise{from{opacity:0;transform:translateY(13px)}to{opacity:1;transform:translateY(0)}}
+      @keyframes pulse{0%,100%{opacity:.55;transform:scale(.92)}50%{opacity:1;transform:scale(1.08)}}
+      @keyframes shine{0%,72%,100%{transform:translateX(-360px);opacity:0}78%{opacity:.55}90%{transform:translateX(780px);opacity:0}}
+      @media(prefers-reduced-motion:reduce){.reveal,.pulse,.shine{animation:none!important;opacity:1!important;transform:none!important}}
+    </style>
+      <rect width="960" height="142" rx="15" fill="#f3efe5"/><rect x="16" y="14" width="928" height="114" rx="10" fill="#fffdf7" stroke="#d9d2c5"/>
+      <text x="40" y="48" fill="#3768d7" font-size="10" letter-spacing="2">A LITTLE ABOUT ME</text>
+      <text x="40" y="77" fill="#20262d" font-size="16" font-weight="700">I enjoy turning ideas into useful, working projects.</text>
+      <text x="40" y="101" fill="#66717b" font-size="12">Currently exploring full-stack development, Flutter, AI-powered applications and practical problem-solving.</text>
+      <path d="M690 32V109" stroke="#d9d2c5"/>
+      <text x="720" y="48" fill="#66717b" font-size="9" letter-spacing="1.4">TOOLS I WORK WITH</text>
+      <text x="720" y="72" fill="#20262d" font-size="13" font-weight="700">React · TypeScript · Flutter</text>
+      <text x="720" y="95" fill="#20262d" font-size="13" font-weight="700">Python · Java · Supabase</text>
+    </svg>

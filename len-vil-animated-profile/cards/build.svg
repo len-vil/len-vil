@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="150" viewBox="0 0 300 150" role="img" aria-labelledby="title">
+      <title id="title">BUILD</title><style>
+      .reveal{opacity:0;animation:rise .8s cubic-bezier(.2,.7,.2,1) forwards}
+      .d1{animation-delay:.15s}.d2{animation-delay:.35s}.d3{animation-delay:.55s}
+      .pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2.8s ease-in-out infinite}
+      .shine{animation:shine 5s ease-in-out infinite}
+      @keyframes rise{from{opacity:0;transform:translateY(13px)}to{opacity:1;transform:translateY(0)}}
+      @keyframes pulse{0%,100%{opacity:.55;transform:scale(.92)}50%{opacity:1;transform:scale(1.08)}}
+      @keyframes shine{0%,72%,100%{transform:translateX(-360px);opacity:0}78%{opacity:.55}90%{transform:translateX(780px);opacity:0}}
+      @media(prefers-reduced-motion:reduce){.reveal,.pulse,.shine{animation:none!important;opacity:1!important;transform:none!important}}
+    </style>
+      <rect width="300" height="150" rx="14" fill="#3768d7"/>
+      <text x="22" y="34" fill="#ffffff" opacity=".8" font-size="10" letter-spacing="2">01 / MAKE</text>
+      <text x="22" y="91" fill="#ffffff" font-size="31" font-weight="700" letter-spacing="-1">BUILD</text>
+      <text x="22" y="119" fill="#ffffff" opacity=".9" font-size="11">Turn ideas into useful things</text>
+      <path d="M255 25l19 19-19 19" fill="none" stroke="#fff" stroke-width="2" opacity=".75"/>
+      <circle cx="270" cy="118" r="17" fill="none" stroke="#fff" stroke-width="1" opacity=".25" class="pulse"/>
+    </svg>
